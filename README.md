@@ -1,4 +1,4 @@
-# C-ashlinkDecomp
+# C#ashlinkDecomp
 A C# variation of the Crashlink Haxe decompiler
 
 Entrypoint (for compiling the decompiler): `HashlinkDecompiler.Test`
